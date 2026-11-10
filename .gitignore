@@ -1,0 +1,24 @@
+# Python virtual environment
+myenv/
+venv/
+.env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Generated reports (keep if you want them in the repo)
+# Uncomment the next lines if you do not want generated artifacts tracked:
+# solar_tracker_report.png
+# solar_tracker_report.txt
